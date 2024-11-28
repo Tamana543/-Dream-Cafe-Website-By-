@@ -18,6 +18,10 @@
   background-size: cover;
   filter: brightness(1);
   border-bottom: 12px solid var(--btn-color);
+  height: 100vh;
+}
+.heading_context {
+  margin-top:10%;
 }
 nav a {
   color: white;
@@ -83,13 +87,13 @@ nav a:hover,
 }
 .btn-third {
   color: var(--btn-color);
-  border: 2px solid var(--btn-color);
-  padding: 8px 20px;
-
+  /* border: 2px solid var(--btn-color); */
+  padding: 8px 10px;
+margin: 0 auto;
   font-size: 25px;
 }
 .btn-third:hover {
-  background-color: var(--btn-hover);
+  /* background-color: var(--btn-hover); */
   color: black;
 }
 .opinion {
@@ -106,6 +110,9 @@ nav a:hover,
   background-size: cover;
 
   filter: brightness(0.5);
+}
+.index-footer {
+  height: auto;
 }
 .footer-info {
   color: white !important;
