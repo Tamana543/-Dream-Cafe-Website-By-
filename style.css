@@ -110,10 +110,9 @@ margin: 0 auto;
   background-size: cover;
 
   filter: brightness(0.5);
-}
-.index-footer {
   height: auto;
 }
+
 .footer-info {
   color: white !important;
   filter: brightness(1) !important;
@@ -246,6 +245,7 @@ input {
   .btn-secondary {
     margin-top: 14px !important;
     padding: 5px 10px;
+    margin-bottom: 20px !important;
   }
   .btn-third {
     display: grid;
