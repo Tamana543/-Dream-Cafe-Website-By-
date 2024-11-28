@@ -162,6 +162,7 @@ header {
 }
 .menu-cards {
   margin-left: 20px;
+  width: 100% !important;
 }
 
 .coffee-sec p {
@@ -256,4 +257,5 @@ input {
     font-size: 20px;
     margin: 10px 15px;
   }
+  
 }
