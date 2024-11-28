@@ -131,11 +131,12 @@ footer .icon {
   height: 100px;
 } */
 /* Menu Part */
-.menu {
+.menu_header {
   background-image: url(images/background\ sec.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
+  height: 90vh;
 }
 header h3 {
   font-family: roboto;
